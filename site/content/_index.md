@@ -3,7 +3,7 @@ title: ' '
 subtitle: ' '
 image: /img/whatsapp-image-2019-12-06-at-11.11.32-pm.jpeg
 blurb:
-  heading: Read latest paper
+  heading: [Read latest paper](https://www.google.com "Read latest paper")
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
